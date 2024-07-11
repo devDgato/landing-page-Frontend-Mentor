@@ -2,7 +2,7 @@
     Frontend Mentor
 </h1>
 <h2 align="center">
-  <a align="center" href="https://devdgato.github.io/landing-page-Frontend-Mentor/" target="_blank" >🔗 See the site 🌐</a>
+  <a align="center" href="https://devdgato.github.io/landing-page-Frontend-Mentor/" target="_blank">🔗 See the site 🌐</a>
 </h2>
 
 
